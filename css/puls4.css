@@ -29,7 +29,9 @@ header .usuario .avatar img {
   width: 50px;
   border-radius: 50%;
 }
-nav background azul,
+nav {
+  background: #22bce0;
+}
 .left {
   float: left;
 }
